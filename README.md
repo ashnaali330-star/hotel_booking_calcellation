@@ -1,4 +1,4 @@
-# Hotel Booking Hackathon
+# Hotel Booking Cancellation Prediction
 
 This project analyzes hotel booking data using Python and machine learning.
 
